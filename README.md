@@ -1,2 +1,4 @@
 # BachelorThesis
-Biophysically realistic modelling of a neuronal network: Investigating High Frequency Oscillations
+## Biophysically realistic modelling of a neuronal network: Investigating High Frequency Oscillations
+High Frenquency Oscillations (HFOs), with a frequency above 80Hz have been proposed as a potential biomarker for the identification of epileptogenic zones in the brain. This is necessary to be able to identify the area that will be resected on medically-refractory patients during surgery. Previous models, such as Morris-Lecar (ML) simulate neuronal behaviour and HFOs. Nevertheless, the morphology of the neuron has not yet been included. The project extends the simulation incorporating neuronal morphology in order to be able to explore its role in neuronal network dynamics. The results are obtained by placing the gap junctions at the soma, dendrite, or axon respectively, and modifying coupling strength to identify its effects. Findings indicate that the addition of compartments significantly impacts the long-term behaviour of the neuronal network.
+(https://purl.utwente.nl/essays/100019)
